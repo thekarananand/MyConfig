@@ -7,5 +7,5 @@
 ### Zed Config
 
 ``` bash
-~/.oh-my-zsh/themes
+~/.config/zed
 ```
